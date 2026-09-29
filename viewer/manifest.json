@@ -1,0 +1,62 @@
+{
+  "scene": "scene_v13.usd",
+  "model": "classroom.glb",
+  "revision": "ee1bae7d2e15",
+  "navigation": "navigation.json",
+  "up": "Z",
+  "metersPerUnit": 1,
+  "triangles": 635851,
+  "bytes": 20943560,
+  "entities": [
+    "/World/envs/env_0/Robot/base_link",
+    "/World/envs/env_0/Robot/counterweight_link",
+    "/World/envs/env_0/Robot/deck2_link",
+    "/World/envs/env_0/Robot/basket_link",
+    "/World/envs/env_0/Robot/so101_base_link",
+    "/World/envs/env_0/Robot/shoulder_link",
+    "/World/envs/env_0/Robot/upper_arm_link",
+    "/World/envs/env_0/Robot/lower_arm_link",
+    "/World/envs/env_0/Robot/wrist_link",
+    "/World/envs/env_0/Robot/gripper_link",
+    "/World/envs/env_0/Robot/moving_jaw_so101_v1_link",
+    "/World/envs/env_0/Robot/base_scan",
+    "/World/envs/env_0/Robot/wheel_left_link",
+    "/World/envs/env_0/Robot/wheel_right_link",
+    "/World/envs/env_0/Tray_L",
+    "/World/envs/env_0/Tray_R",
+    "/World/envs/env_0/Tray_Shelf_01",
+    "/World/envs/env_0/Tray_Shelf_02",
+    "/World/envs/env_0/Tray_Shelf_03",
+    "/World/envs/env_0/Tomato_Shelf_01",
+    "/World/envs/env_0/Tomato_Shelf_02",
+    "/World/envs/env_0/Fish_Shelf_01",
+    "/World/envs/env_0/Fish_Shelf_02",
+    "/World/envs/env_0/Grape_Shelf_01",
+    "/World/envs/env_0/Grape_Shelf_02"
+  ],
+  "bounds": [
+    [
+      -9.270000000298023,
+      -11.180000000298023,
+      -0.07999999910593034
+    ],
+    [
+      9.30750000089407,
+      2.9600000002980233,
+      2.9000000007450577
+    ]
+  ],
+  "spawn": [
+    -0.4,
+    -1.5,
+    1.2
+  ],
+  "target": [
+    -0.4,
+    1.0,
+    0.6
+  ],
+  "materialMode": "textured-pbr",
+  "textures": 23,
+  "source": "USD scene and robot; no simulated motion baked"
+}
